@@ -1,0 +1,10 @@
+import numpy as np
+from glob import glob
+
+# load filenames for human and dog images
+human_files = np.array(glob("lfw/*/*"))
+dog_files = np.array(glob("dogImages/*/*/*"))
+
+# print number of images in each dataset
+print('There are %d total human images.' % len(human_files))
+print('There are %d total dog images.' % len(dog_files))
