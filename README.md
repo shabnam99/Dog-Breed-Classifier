@@ -6,10 +6,17 @@ In this real-world setting, you will need to piece together a series of models t
 
 The Road Ahead:
 
+
 Step 0: Import Datasets
+
 Step 1: Detect Humans
+
 Step 2: Detect Dogs
+
 Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+
 Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+
 Step 5: Write your Algorithm
+
 Step 6: Test Your Algorithm
